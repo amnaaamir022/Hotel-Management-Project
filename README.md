@@ -71,4 +71,4 @@ This project demonstrates the practical implementation of Object-Oriented Progra
 
 ## 📜 License
 
-This project is for educational purposes.
+MIT License
