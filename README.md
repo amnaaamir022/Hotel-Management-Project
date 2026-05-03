@@ -1,11 +1,11 @@
 # Hotel-Management-Project
 
-## 📌 Overview
+## Overview
 The Hotel Management System is a console-based application developed in C++ that automates essential hotel operations such as room booking, customer management, food ordering, and billing.
 
 This project replaces manual processes with an efficient and structured system, reducing human errors and improving service quality.
 
-## 🎯 Features
+## Features
 
 - 🏨 Room booking and availability tracking  
 - 👤 Customer check-in and check-out management  
@@ -14,7 +14,7 @@ This project replaces manual processes with an efficient and structured system, 
 - ❌ Booking and food order cancellation with fee calculation  
 - ⚠️ Error handling for invalid inputs and unavailable rooms  
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Programming Language:** C++  
 - **Concepts:** Object-Oriented Programming (OOP)  
@@ -23,14 +23,14 @@ This project replaces manual processes with an efficient and structured system, 
   - Polymorphism  
   - Abstraction  
 
-## 🧠 OOP Implementation
+## OOP Implementation
 
 - **Encapsulation:** Classes like `Room` and `Food` manage their own data using private variables and public methods.  
 - **Inheritance:** `Customer` class inherits from `Person` class to reuse common attributes.  
 - **Polymorphism:** Virtual functions like `showDetails()` allow dynamic behavior.  
 - **Abstraction:** Complex operations like booking, billing, and food ordering are simplified through system functions.  
 
-## ⚙️ System Functionalities
+## System Functionalities
 
 ### 🏨 Room Management
 - View available rooms  
@@ -54,14 +54,14 @@ This project replaces manual processes with an efficient and structured system, 
 - Easy navigation using numeric options  
 - Clear prompts and formatted outputs  
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - GUI-based interface  
 - Online booking system  
 - Database integration  
 - Advanced billing system  
 
-## 🎯 Purpose
+## Purpose
 
 This project demonstrates the practical implementation of Object-Oriented Programming concepts in solving real-world problems. It provides a scalable and modular approach to hotel management.
 
